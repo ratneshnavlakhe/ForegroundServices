@@ -1,5 +1,7 @@
 # Foreground Service Demo App
 
+* A service is an android architecture component similar to an activity but the difference is it doesn't have a user interface but runs in the background. 
+
 * This app is sample example of learnings from foreground service
 * This helps in how can we create services.
 * How to start the service from another android component.
